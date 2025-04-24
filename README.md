@@ -1,6 +1,4 @@
-Here's your `README.md` with the official Scrapy link included:  
 
----
 
 # IMDb Top 250 Movies Scraper 🎬  
 
