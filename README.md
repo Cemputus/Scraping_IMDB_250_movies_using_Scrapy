@@ -84,7 +84,7 @@ Feel free to fork this repository and contribute by submitting pull requests. An
 
 ## Author ✍  
 
-Developed by **Cemputus**  
+Developed by **EMMANUEL NSUBUGA**  
 
 For more details on Scrapy, visit **[Scrapy's official documentation](https://scrapy.org/)**.  
 
